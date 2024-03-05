@@ -18,4 +18,4 @@
 ## EXERCÍCIOS E AVALIAÇÕES
 
 
-- [Atividade 1 (O que é Computação Visual?)](docs/atv1-n1.md) - Entrega até 05/03/2024 23:59
+- [Atividade 1 (O que é Computação Visual?)](docs/atividades/n1/atv1-n1.md) - Entrega até 05/03/2024 23:59
