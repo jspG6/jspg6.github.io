@@ -20,3 +20,4 @@
 
 - [Atividade 1 (O que é Computação Visual?)](ativdades/n1/atv1-n1.md) - Entrega até 05/03/2024 23:59
 - [Atividade 2 (Aplicações de Computação Visual)](ativdades/n1/atv2-n1.md) - Entrega até 12/03/2024 23:59
+- [Atividade 3 (Formatos de imagem)](ativdades/n1/atv3-n1.md) - Entrega até 19/03/2024 23:59
