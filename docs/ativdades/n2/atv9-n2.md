@@ -97,3 +97,20 @@ A função `glDrawElements` recebe o tipo de primitiva (GL_TRIANGLES), o número
 ```c
 glDrawElements(GL_TRIANGLES, 36, GL_UNSIGNED_INT, 0); 
 ```
+
+---------------------
+
+### Referências
+
+1. **OpenGL e SDL**:
+   - **OpenGL Documentation**: [OpenGL Documentation](https://www.opengl.org/documentation/)
+   - **SDL Documentation**: [SDL Documentation](https://wiki.libsdl.org/)
+
+2. **GLEW (The OpenGL Extension Wrangler Library)**:
+   - **GLEW Documentation**: Informações sobre como inicializar e usar GLEW. Disponível em: [GLEW Documentation](http://glew.sourceforge.net/basic.html)
+
+3. **cglm (OpenGL Mathematics para C)**:
+   - **cglm GitHub Repository**: Código-fonte e documentação sobre cglm. Disponível em: [cglm GitHub](https://github.com/recp/cglm)
+
+4. **Tutoriais e Exemplos**:
+   - **LearnOpenGL**: Um recurso abrangente para aprender OpenGL, incluindo exemplos e tutoriais sobre VBOs, VAOs, shaders, e transformações. Disponível em: [LearnOpenGL](https://learnopengl.com/)
